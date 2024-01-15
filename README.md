@@ -1,1 +1,2 @@
-# mlops_3
+mlops_3
+Датасет был взял titanic
